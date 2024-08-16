@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -7,7 +7,7 @@ int main()
   base = 5; 
   altura = 10;
 
-  area = (base * altura) / 2
+  area = (base * altura) / 2;
 
   printf("El area del triamgulo es: %\n". area);
 
